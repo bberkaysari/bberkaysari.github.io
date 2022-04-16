@@ -1,1 +1,31 @@
-
+h1{color: rgb(218, 232, 220); text-align:left; font-size: 50px;font-family: 'Lato', sans-serif;}
+a{color:rgb(91, 69, 71); text-decoration: none; font-size: 25px; font-weight: bolder; margin: 8px; font-family: 'Lato', sans-serif;}
+a:hover{color:rgb(164, 146, 96); font-size: 30px;}
+p{color: rgb(91, 69, 71);text-align:center; font-size: 50px;font-family: 'Lato', sans-serif;}
+img{float: left; margin right:25px; }
+body{background-color: rgb(197, 204, 179);}
+.bolum{border: 5px solid orange; overflow: scroll; padding: 10px; background-color: rgb(162, 151, 131);} 
+h3{color: rgb(240, 246, 162);}
+#main{ color: rgb(143, 109, 72); font-family: 'Lato', sans-serif;}
+#iletisim-form{
+text-align: center;
+}
+#iltsmbslik{
+  font-size: 50px;
+  color: rgb(80, 106, 98);
+  font-family: 'Lato', sans-serif;
+}
+.mnu{
+  text-align: end;
+  top: 0;
+  font-family: 'Lato', sans-serif;
+}
+nav{
+  background-color:rgb(80, 106, 98);
+  color: aliceblue;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+ 
+}
+*{padding: 0; margin: 0; box-sizing: border-box;}
+img#resim2{padding: 12px;}
