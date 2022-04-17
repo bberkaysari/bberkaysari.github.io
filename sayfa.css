@@ -6,14 +6,39 @@ img{float: left; margin right:25px; }
 body{background-color: rgb(197, 204, 179);}
 .bolum{border: 5px solid orange; overflow: scroll; padding: 10px; background-color: rgb(162, 151, 131);} 
 h3{color: rgb(240, 246, 162);}
-#main{ color: rgb(143, 109, 72); font-family: 'Lato', sans-serif;}
+#main{ color: rgb(143, 109, 72); font-family: 'Lato', sans-serif; padding-left: 10px;}
 #iletisim-form{
 text-align: center;
+width: 70%;
+margin: 0 auto;
 }
 #iltsmbslik{
   font-size: 50px;
   color: rgb(80, 106, 98);
   font-family: 'Lato', sans-serif;
+}
+#iletisimsablon{
+  border-bottom: 1px solid rgb(80, 106, 98);
+  padding-bottom: 3rem;
+  margin-bottom: 4rem;
+}
+.iletisimsablon input, .iletisimsablon textarea{
+  border: none;
+  width: 100%;
+  display: block;
+  font-size: 1.5rem;
+  background-color: rgb(197, 204, 179);
+}
+.iletisimsablon input:focus{
+  outline: 0;
+}
+.buton{
+  padding: 10px 20px;
+  background-color:rgb(143, 109, 72);
+  border: none;
+  color: aliceblue;
+  border-radius: 60px;
+  text-align: left;
 }
 .mnu{
   text-align: end;
@@ -25,7 +50,33 @@ nav{
   color: aliceblue;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  position: sticky;
+  top: 0;
  
 }
 *{padding: 0; margin: 0; box-sizing: border-box;}
 img#resim2{padding: 12px;}
+#alt{background-color: rgb(80, 106, 98);}
+#footdiv{
+  text-align: center;
+}
+.iletisimsablon{margin: 5px;}
+.cubuk {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.cubugu {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.c {width: 60%; background-color: #808080;}
+.mtncbk{
+  text-align: left;
+  font-size: 30px;
+}
