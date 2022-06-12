@@ -1,9 +1,9 @@
 h1{color: rgb(218, 232, 220); text-align:left; font-size: 50px;font-family: 'Lato', sans-serif;}
-a{color:rgb(91, 69, 71); text-decoration: none; font-size: 25px; font-weight: bolder; margin: 8px; font-family: 'Lato', sans-serif;}
-a:hover{color:rgb(164, 146, 96); font-size: 30px;}
+a{color:rgb(154, 30, 141); text-decoration: none; font-size: 25px; font-weight: bolder; margin: 8px; font-family: 'Lato', sans-serif;}
+a:hover{color:rgb(224, 57, 19); font-size: 30px;}
 p{color: rgb(91, 69, 71);text-align:center; font-size: 50px;font-family: 'Lato', sans-serif;}
 img{float: left; margin right:25px; }
-body{background-color: rgb(197, 204, 179);}
+body{background-color: rgb(201, 190, 33);}
 .bolum{border: 5px solid orange; overflow: scroll; padding: 10px; background-color: rgb(162, 151, 131);} 
 h3{color: rgb(240, 246, 162);}
 #main{ color: rgb(143, 109, 72); font-family: 'Lato', sans-serif; padding-left: 10px;}
@@ -18,7 +18,7 @@ margin: 0 auto;
   font-family: 'Lato', sans-serif;
 }
 #iletisimsablon{
-  border-bottom: 1px solid rgb(80, 106, 98);
+  border-bottom: 1px solid rgb(201, 190, 33);
   padding-bottom: 3rem;
   margin-bottom: 4rem;
 }
@@ -27,7 +27,7 @@ margin: 0 auto;
   width: 100%;
   display: block;
   font-size: 1.5rem;
-  background-color: rgb(197, 204, 179);
+  background-color: rgb(16, 21, 154);
 }
 .iletisimsablon input:focus{
   outline: 0;
